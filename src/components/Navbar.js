@@ -25,7 +25,7 @@ function Navbar() {
               <a href='#home' className={`navLink`}>Services</a>
             </li>
             <li onClick={removeActive}>
-              <a href='#home' className={`navLink`}>About Us</a>
+              <a href='#home' className={`navLink`}>About</a>
             </li>
             <li onClick={removeActive}>
               <a href='#home' className={`navLink`}>Contact</a>
