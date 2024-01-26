@@ -157,7 +157,8 @@ body {
 }
 
  .Faq_Header{
-  padding-left: 80px;
+  /* padding-left: 80px; */
+  text-align: center;
  }
 .CFO{
   background-color: rgb(233, 229, 229);
@@ -317,7 +318,8 @@ body {
    
   }
   .Faq_Header{
-    padding-left: 20px;
+    /* padding-left: 80px; */
+    text-align: center;
   }
   .CFO,
 .Accountname{
