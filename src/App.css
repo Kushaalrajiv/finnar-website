@@ -204,7 +204,6 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: flex-start;
-    min-height: 100vh;
     background-color: #ffffff;
   }
   
@@ -214,10 +213,7 @@
     justify-content: space-around; /* Distribute cards evenly with space around */
      margin: 20px 0;
     /* Adjusted margin for spacing between cards and content */
-    margin-bottom: 40px; /* Added spacing below the container */
-    
-  
-    
+    margin-bottom: 40px; /* Added spacing below the container */ 
   }
   
   .card {
